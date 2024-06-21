@@ -28,28 +28,17 @@ After the script finishes running, you will find a file named B2B_Summit_Events.
 Data Collected
 
 The script collects the following information for each event:
-
-Event Name
-
-Event Date(s)
-
-Location
-
-Website URL
-
-Description
-
-Key Speakers
-
-Agenda
-
-Registration Details
-
-Pricing
-
-Categories
-
-Audience type
+  - Event Name
+  - Event Date(s)
+  - Location
+  - Website URL
+  - Description
+  - Key Speakers
+  - Agenda
+  - Registration Details
+  - Pricing
+  - Categories
+  - Audience type
 
 Note: The output CSV file may contain incomplete or minimal details depending on the availability and structure of data on the event websites. Some fields may appear as "N/A" if the information couldn't be retrieved.
 
