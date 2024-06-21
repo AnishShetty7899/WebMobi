@@ -1,4 +1,5 @@
 #B2B Event Scraper
+
 Overview
 This Python script is designed to scrape data from multiple B2B event websites. It collects information such as event dates, location, description, key speakers, agenda, registration details, pricing, categories, and audience type. The scraped data is then stored in a CSV file named b2b_events_2024.csv for further analysis and reference.
 
